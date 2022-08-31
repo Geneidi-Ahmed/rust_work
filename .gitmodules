@@ -1,0 +1,6 @@
+[submodule "rust_work"]
+	path = rust_work
+	url = https://github.com/Geneidi-Ahmed/rust_work
+[submodule "Hello_Rust"]
+	path = Hello_Rust
+	url = https://github.com/agenidi/Hello_Rust.git
